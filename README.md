@@ -1,74 +1,138 @@
-# Blog template for Bootstrap 5
+
+<p align="center">
+  <a href="https://mdbootstrap.com/freebies/fluent-design/"  target="_blank"><img width="80" src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb.png" alt="Material-UI logo"></a></p>
+</p>
+
+<h2 align="center">Fluent Design for the newest Bootstrap 5</h2>
+
+<p align="center">Components in the newest Bootstrap 5 and Fluent Design. Completely new design using the latest Bootstrap</p>
+
+# Highlights  
+
+**Free for personal and commercial use**  
+Our license is user friendly. Feel free to use Fluent Kit for both private as well as commercial projects.  
+
+**Components**  
+Choose **among 100+ predefined components**. Each component is ready to use and fits perfectly with each other like LEGO bricks. Take, combine, enjoy!.  
+
+**Modularity**  
+Fluent Design for Bootstrap comes with both, compiled, ready to use libraries including all features as well as modules for CSS (SASS files) and JS. That allows you to create your custom library including only elements which you really use in your project.   
+
+**10 fresh ready to use templates**  
+We are going further and giving to you ready to use templates! Use them as you like, as an inspiration, prototype or final product for your customers.  
+
+**Cross-browser compatibility**  
+Chrome, Firefox, IE, Safari, Opera, Microsoft Edge - Fluent Kit loves all browsers, all browsers love Fluent Kit.  
+
+**Modularity**  
+Fluent Design for Bootstrap comes with both, compiled, ready to use libraries including all features as well as modules for CSS (SASS files) and JS. That allows you to create your custom library including only elements which you really use in your project.  
+
+**Active community**  
+Our society grows day by day. Visit **our forum** and check how it is to be a part of our family.  
+
+**Flex box**  
+Fluent Kit fully suppports Flex Box. You can forget about alignment issues.  
+
+**jQuery 3.x and 2.x**  
+Fluent Kit is integrated with newest jQuery. Therefore you can use all the latest features which come along with it.
+
+**SASS files**  
+Arrenged and well documented .scss files can't wait until you compile them.  
+
+**Detailed documentation**  
+We give you detailed documentation at your disposal. It will help you to implement your ideas easily.  
 
 
-These templates were built with a **free Material Design UI Kit for the latest Bootstrap 5**.
+# Live Preview
 
-<img height="25" src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">  [![GitHub Stars](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit?label=Star%20now&style=social)](https://github.com/mdbootstrap/mdb-ui-kit/)
-
-<a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"> <img src="https://img.shields.io/npm/dm/mdbootstrap.svg?label=MDB%20Downloads" alt="Downloads"></a>
-<a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-<a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Let%20us%20know%20you%20were%20here%21&"></a>
-<a href="https://www.youtube.com/watch?v=c9B4TPnak1A&t=6s"><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/c9B4TPnak1A?label=Bootstrap%205%20Tutorial%20Views&style=social"></a>
-___
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <a href="https://mdbootstrap.com/freebies/blog/" alt="Bootstrap 5" rel="dofollow">
-          		<img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/freebies/blog/assets/featured.jpg">
-          </a>
-      </td>
-      <td>
-        <ul>
-        <li><b>Built with the free MDB5 UI Kit</b></li>
-         <li>Super simple, 1 minute implementation</li>
-         <li><b>Plain javascript (but works also with jQuery)</b></li>
-         <li>Use in your design and create amazing things</li>
-         <li><b>MIT license - free for personal & commercial use</b></li>
-          <li><b><a href="https://mdbootstrap.com/snippets/standard/mdbootstrap/2515504">Live Demo</a></b></li>
-        </ul>
-      </td>
-    </tr>
-   </tbody>
-</table>
+[Main demo](https://mdbgo.io/marta-szymanska/mdb5-demo-free-fluent/free/components/full-demo.html) - check visual guide of components in the newest Bootstrap 5 and Fluent Design
 
 
-___
+# Cards
 
-###### Discover tutorials for the latest Bootstrap 5 and learn how to create templates yourself.
+<p>Card is a responsive content container with an extensible option for headers, footers, images, and a wide variety of content.</p>
 
-**[>> Click here for a written tutorial](https://mdbootstrap.com/docs/standard/getting-started/quick-start/)**
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-cards.png">
+  </p>
+</a>
+
+# Carousel
+
+<p>A slideshow component for cycling through elements—images or slides of text—like a carousel.</p>
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
+  </p>
+</a>
+
+# Buttons
+
+<p>Buttons provide predefined styles (warning, info, danger) for multiple button types: outline, rounded, social, floating, fixed, tags, etc.</p>
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-buttons.png">
+  </p>
+</a>
+
+# Button Group
+
+<p>Button group wraps a series of buttons together into a single line (navbar) or stack in a vertical column.</p>
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-button-group.png">
+  </p>
+</a>
 
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/learnmore-1.png">
-          </a>
-      </td>
-      <td>
-          <a href="https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/#section-beginner" alt="Bootstrap 5" rel="dofollow">
-          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/cover-bootstrap-5-1.png">
-          </a>
-      </td>
-    </tr>
-     <tr>
-        <td align="center">
-          <p align="center"><b>Start to Code</b></p>
-          <a href="https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/#section-beginner" alt="Bootstrap 5" rel="dofollow">
-          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/Screenshot_26.png">
-          </a>
-         </td>
-        <td align="center">
-          <p align="center"><b>Learn Bootstrap 5 | Crash Course for Beginners in 1.5H</b></p>
-          <a href="https://mdbootstrap.com/docs/standard/bootstrap-5-tutorial/#section-beginner" alt="Bootstrap 5" rel="dofollow">
-          		<img src="https://mdbootstrap.com/wp-content/uploads/2020/12/Screenshot_26.png">
-          </a>
-         </td>
-      </tr>
-   </tbody>
-</table>
+# Progress
 
-___
+<p>Progress bar is an indicator showing the completion progress, i.e. task or time. Use it with percents, steps & other options.</p>
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-progress.png">
+  </p>
+</a>
+
+# Footer
+
+<p>A footer is an additional navigation component. It can hold links, buttons, company info, copyrights, forms, and many other elements.</p>
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-footer.png">
+  </p>
+</a>
+
+# Toasts
+
+<p>Bootstrap Toast component is a non-disruptive message in the corner of the interface. It provides quick "at-a-glance" feedback on the outcome of an action.</p>
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-toasts.png">
+  </p>
+</a>
+
+# Acrylic
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-blur-1.png">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/freebies/fluent-design/" alt="Fluent Design Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/fluent-blur-2.png">
+  </p>
+</a>
+
+
+
+A big **thank you to all our users** who are working with us to improve the software. We wouldn't be where we are without you.  
